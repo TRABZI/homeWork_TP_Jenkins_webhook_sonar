@@ -6,7 +6,7 @@ public class Main {
         Integer result=100;
 	Integer firstNumber=55;
 	Integer secondNumber=5;
-        Integer result=firstNumber - secondNumber;
+        result=firstNumber - secondNumber;
 
         System.out.println("Test Main.java with SonarQube");
     }
