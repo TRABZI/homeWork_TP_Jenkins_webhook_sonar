@@ -6,12 +6,10 @@ node {
 
     stage('Build') {
         	sh label: '', script: 'javac Main.java'
-	        sh label: '', script: 'javac Main2.java'
     }
 
     stage('Run') {
         	sh label: '', script: 'java Main'
-	        sh label: '', script: 'java Main2'
     }
 
     stage('sonarqube-scanner') {
