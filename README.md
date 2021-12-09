@@ -1,3 +1,2 @@
-tp jenkins & sonarqube
-sonarqube + Jenkins 
+tp jenkins & sonarqube 
 automatic sonar quality test
