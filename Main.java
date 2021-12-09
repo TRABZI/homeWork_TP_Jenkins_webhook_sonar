@@ -5,6 +5,7 @@ public class Main {
         Integer yourInt = myInt * 2;
         Integer rslt1=myInt - yourInt;
 	Integer rslt2=null;
+	System.out.println("hello")
 	Integer rslt3=55;
        
 	Integer hhh=null;
