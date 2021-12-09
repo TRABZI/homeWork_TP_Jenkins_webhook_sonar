@@ -4,8 +4,8 @@ public class Main {
         Integer myInt = 1;
         Integer yourInt = myInt * 2;
         Integer rslt1=myInt - yourInt;
-	Integer rslt2=null
-	Integer rslt3=55
+	Integer rslt2=null;
+	Integer rslt3=55;
 
      
          
