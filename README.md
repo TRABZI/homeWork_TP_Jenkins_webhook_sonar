@@ -1,4 +1,3 @@
 tp jenkins & sonarqube
-webhook
-sonarqube 
+sonarqube + Jenkins 
 automatic sonar quality test
