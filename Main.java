@@ -7,8 +7,8 @@ public class Main {
 	Integer rslt2=null;
 	Integer rslt3=55;
        
-        Integer myInt =1;
-	Integer rslt3=55;
+	Integer hhh=null;
+	Integer hhh2=null;
 
         System.out.println("Test Main.java with SonarQube");
     }
