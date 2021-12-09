@@ -29,6 +29,6 @@ node {
 
 
    stage('Gate Quality'){
-   	waitForQualityGate abortPipline : true
+   	waitForQualityGate abortPipeline : true
    }
 }
